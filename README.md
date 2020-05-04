@@ -16,3 +16,6 @@ TO DO :
 1. Using inception net v_3.
 2. Hyper parameter tuning.
 
+[Data](https://drive.google.com/open?id=1w5yg356PWXRPr-x3h-D4BTJIp1_PZkOJ)
+
+
